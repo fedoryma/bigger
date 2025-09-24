@@ -1,0 +1,6 @@
+all map should end with an empty new line
+
+if anything else is after a new line, it should return map_error?
+so then if two new lines are there it should be a map error?
+
+testing stdin -> use CTRL + D as EOF
